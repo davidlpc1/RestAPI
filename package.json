@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidlpc1/RestAPI/issues"
   },
-  "homepage": "https://github.com/davidlpc1/RestAPI#readme"
+  "homepage": "https://github.com/davidlpc1/RestAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
